@@ -1,0 +1,1 @@
+[23-Dec-2014 03:02:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ualiisco/public_html/wp-content/themes/beuh/index.php on line 1
